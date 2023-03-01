@@ -1,4 +1,5 @@
 //a comment test
+//commit test in VScode
 jQuery(document).ready(function( $ ){
     'use strict';
 
